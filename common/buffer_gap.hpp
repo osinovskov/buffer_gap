@@ -6,8 +6,6 @@
 
 namespace buffer_gap {
 
-    //struct char_dynarray_t;//неполный тип
-
     using char_dynarray = struct char_dynarray_t*;//указатель на неполный классовый тип, который описан в этом же описании
 
     using const_char_dynarray = const char_dynarray_t*;// Псевдоним типа "неизменяемый динамический массив" для соблюдения const-корректности
