@@ -1,5 +1,3 @@
-//Осиновсков Илья, 10 вариант, СКБ-162_1
-
 #ifndef BUFFER_GAP_HPP
 #define BUFFER_GAP_HPP
 #include <cstddef>
